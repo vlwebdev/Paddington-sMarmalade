@@ -1,0 +1,68 @@
+.container{
+	background: #fff url("images/honeybees.jpg");
+	background-repeat: round;
+	font-family: 'Quicksand', sans-serif;
+	
+}
+blockquote footer{
+	margin: 0px;
+	padding-top: 0px;
+}
+.row{
+	margin-top: 50px;
+	padding-top: 50px;
+}
+
+
+#store-gallery img{
+	float: right;
+	margin-top: 5px;
+}
+#About{
+	margin: 105px;
+	padding-top: 60px;
+}
+#History{
+	margin: 90px;
+	padding-top: 100px;
+}
+.box{
+	height: 800px;
+	width: 900px;
+}
+
+
+
+.thumbnail h3{
+	font-size: 15px;
+    text-align: center;
+    margin-top: -7px;
+}
+
+.thumbnail .caption{
+	padding: 100px 50px;
+	margin: 0px;
+	height: 100px;
+	width:  100px;
+
+}
+label:hover {
+	color: #4B0082;
+}
+input[type= text] {
+background-color: #ffffe6;
+}
+input[type= email]:hover {
+background-color: #ffffe6;
+}
+input[type= password]:hover {
+background-color: #ffffe6;
+}
+
+ 
+
+footer{
+	margin:0-auto;
+	margin-top:100px;
+	padding-top: 100px;
+}
